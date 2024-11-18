@@ -1,1 +1,1 @@
-THIS IS A PRACTICE JAVASCRIPT PROJECT .TESTIMONIAL SLIDER IS CREATED THAT WILL BE CHNAGED EVERY TEN SEC.TOOLS USED VS CODE , NODE JS.TECHNLOGIES HTML,CSS AND JS.
+"This is a practice JavaScript project featuring a testimonial slider. The slider automatically updates every 10 seconds. Tools used include VS Code and Node.js, with HTML, CSS, and JavaScript as the core technologies."
